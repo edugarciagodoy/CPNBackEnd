@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062A1C4A-1750-48D0-8617-4E3D4074FC18}|src\\WebApi\\WebApi.csproj|solutionrelative:src\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0139F106-6F8B-4FEC-A054-65C8F711EE2A}|src\\Infraestructure\\Infraestructure.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\infraestructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0139F106-6F8B-4FEC-A054-65C8F711EE2A}|src\\Infraestructure\\Infraestructure.csproj|solutionrelative:src\\infraestructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0139F106-6F8B-4FEC-A054-65C8F711EE2A}|src\\Infraestructure\\Infraestructure.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0139F106-6F8B-4FEC-A054-65C8F711EE2A}|src\\Infraestructure\\Infraestructure.csproj|solutionrelative:src\\infraestructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|c:\\users\\eduardo\\documents\\github\\cpnbackend\\src\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAAE26F-07DD-4BB0-8073-5FC6F249D41A}|src\\Application\\Application.csproj|solutionrelative:src\\application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T00:36:12.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:34:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:34:14.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:32:42.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Infraestructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infraestructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Infraestructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Infraestructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:30:40.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Infraestructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:27:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "src\\Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:24:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\EDUARDO\\Documents\\GitHub\\CPNBackEnd\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-01T00:23:39.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
